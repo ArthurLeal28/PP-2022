@@ -1,0 +1,7 @@
+{
+  "name": "GAC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
